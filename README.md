@@ -80,4 +80,4 @@ src/
 
 ## 👨‍💻 Autor
 
-Feito com 💙 por **[Seu Nome](https://github.com/seu-usuario)**
+Feito com 💙 por **[Seu Nome](https://github.com/cwbrendon)**
